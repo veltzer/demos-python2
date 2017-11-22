@@ -4,6 +4,7 @@
 *.pyc
 __pycache__
 *.stamp
+/.venv/
 
 # output files
 *.out
