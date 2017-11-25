@@ -6,3 +6,5 @@ mysql-connector==2.1.4
 pygraph
 pandas
 numpy
+keyring
+dbus-python
