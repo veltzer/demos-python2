@@ -8,3 +8,4 @@ pandas
 numpy
 keyring
 dbus-python
+texttable
