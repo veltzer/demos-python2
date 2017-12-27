@@ -34,7 +34,7 @@ def using_translate():
 using_translate.name = 'using_translate'
 
 def using_comprehension():
-    return "".join("-" if ord('a') <= ord(x) <= ord('z') else x for x in line)
+    return "".join("-" if 'a' <= x <= 'z' else x for x in line)
 using_comprehension.name = 'using_comprehension'
 
 # check that our functions are good
