@@ -13,6 +13,8 @@ class SampleEnum(enum.Enum):
     three = 3
 
 print(type(SampleEnum.one))
+print(SampleEnum.one.name)
+print(str(SampleEnum.one))
 # convert an int to a name
 print(SampleEnum(2).name)
 print(SampleEnum.one.value)
