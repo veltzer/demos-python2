@@ -10,3 +10,4 @@ keyring
 dbus-python
 texttable
 python-jenkins
+yattag
