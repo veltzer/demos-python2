@@ -11,3 +11,5 @@ dbus-python
 texttable
 python-jenkins
 yattag
+pybitbucket
+gitpython
