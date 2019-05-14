@@ -2,7 +2,7 @@
 gcloud
 mysqlclient
 configparser
-mysql-connector==2.1.4
+mysql-connector
 pygraph
 pandas
 numpy
