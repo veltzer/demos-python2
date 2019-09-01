@@ -19,7 +19,5 @@ df = pandas.read_csv(
         header=None,)
 # df.shape is a tuple
 assert df.shape == (3,2)
-rows = df.shape[0]
-cols = df.shape[1]
-assert rows == 3
-assert cols == 2
+assert df.shape[0] == 3
+assert df.shape[1] == 2
