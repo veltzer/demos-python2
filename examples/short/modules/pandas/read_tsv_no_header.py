@@ -3,7 +3,9 @@
 """
 This is an example of how to read a tsv file with no header.
 
-The idea is to pass the header=None parameter.
+The idea is to:
+	pass header=None
+        pass sep='\t',
 """
 
 import pandas
