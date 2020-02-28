@@ -8,6 +8,7 @@ __pycache__
 
 # output files
 *.out
+/.myenv.pip.errors
 
 # idea
 /.idea/workspace.xml

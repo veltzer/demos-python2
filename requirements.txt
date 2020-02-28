@@ -1,8 +1,8 @@
 # production
 gcloud
-mysqlclient
+# mysqlclient
 configparser
-mysql-connector
+# mysql-connector
 pygraph
 pandas
 numpy
