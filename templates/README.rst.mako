@@ -7,3 +7,6 @@
 =======================
 
 version: ${config.version.version}
+
+
+THIS PROJECT IS KEPT FOR ARCHIVING ONLY. I DONT DO PYTHON2 ANYMORE.
