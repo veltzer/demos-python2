@@ -1,8 +1,7 @@
-# production
+# THIS IS AN AUTO-GENERATED FILE. DO NOT EDIT!
+# production requirements
 gcloud
-# mysqlclient
 configparser
-# mysql-connector
 pygraph
 pandas
 numpy
@@ -13,3 +12,5 @@ python-jenkins
 yattag
 pybitbucket
 gitpython
+# dev requirements
+pydmt
