@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import pstats
 p = pstats.Stats('/tmp/profile_results')
 p.sort_stats('cumulative').print_stats(20)

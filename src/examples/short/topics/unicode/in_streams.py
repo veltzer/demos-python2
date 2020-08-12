@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """
 This example shows that if you are using python2 then you must
 decorate your file handles with codecs.getreader and codecs.getwriter

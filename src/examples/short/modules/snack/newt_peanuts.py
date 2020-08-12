@@ -1,6 +1,6 @@
-#!/usr/bin/env python
-
-# Demo program to show use of python-newt module
+"""
+Demo program to show use of python-newt module
+"""
 
 from snack import *
 

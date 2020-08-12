@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """
 Print the epoch
 """

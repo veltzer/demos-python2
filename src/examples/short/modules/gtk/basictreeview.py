@@ -1,6 +1,6 @@
-#!/usr/bin/env python
-
-# example basictreeview.py
+"""
+example basictreeview.py
+"""
 
 import pygtk
 # pygtk.require('2.0')

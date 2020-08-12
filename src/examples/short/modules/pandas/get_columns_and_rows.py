@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """
 This example shows how to know how many columns and rows a pandas
 data frame has.

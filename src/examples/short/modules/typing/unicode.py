@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """
 This example shows that in python2 the 'Text' type is
 an alias to the 'unicode' built-in type. In python3 the

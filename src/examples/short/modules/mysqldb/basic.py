@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """
 Simple example of how to use a mysql database using pythons
 MySQLdb module.

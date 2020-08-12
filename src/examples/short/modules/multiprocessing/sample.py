@@ -1,5 +1,3 @@
-#!/usr/bin/env
-
 from multiprocessing import Process, Queue
 
 def f(q):

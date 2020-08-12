@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """
 This example shows how to count unique values with pandas.
 

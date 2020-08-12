@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """
 List all remote branches of a git repo
 
